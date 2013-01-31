@@ -47,7 +47,11 @@ in the default value being incorrectly substituted.
 This issue has been raised but there's currently no out of the box support
 from SpringSource to work around this. See 
 [SPR-9989](https://jira.springsource.org/browse/SPR-9989).
- 
+
+# Build Status
+
+[![Build Status](https://travis-ci.org/ptomli/spring-environment.png?branch=master)](https://travis-ci.org/ptomli/spring-environment)
+
 # License
 
 Copyright (c) 2013 Paul Tomlin
